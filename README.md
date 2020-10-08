@@ -15,4 +15,4 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
 
 
-# based on [10-projects-1-hour](https://github.com/florinpop17/10-projects-1-hour/tree/master/auto-write-text) challenge
+# based on [10-projects-1-hour](https://github.com/florinpop17/10-projects-1-hour) challenge
